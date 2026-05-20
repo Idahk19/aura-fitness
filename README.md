@@ -214,7 +214,7 @@ Potential future upgrades include:
 ## Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/aura-fitness.git
+git clone https://github.com/Idahk19/aura-fitness.git
 ```
 
 ---
