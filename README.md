@@ -1,4 +1,4 @@
-# 🏋️ AURA FITNESS SYSTEM
+#  AURA FITNESS SYSTEM
 
 AURA FITNESS is a fitness transformation platform designed to showcase structured 90-day training programs and guide users through a disciplined fitness journey. It provides a clean, modern browsing experience focused on fitness goals, consistency, and progression.
 
